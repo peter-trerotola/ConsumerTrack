@@ -7,7 +7,5 @@ MYSQL_CONFIG = {
 
 AWS_CONFIG = {
     'bucket': 'cti-developer-dropbox',
-    'region': 'us-east-1',
-    'key': 'AKIAJMV3SLJRPTLSLALQ',
-    'secret': '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'
+    'region': 'us-east-1'
 }
